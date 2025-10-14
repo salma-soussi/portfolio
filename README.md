@@ -17,7 +17,7 @@ This site serves as a professional space to highlight my work, background, and w
 
 
 ## 🌐 Live Demo
-👉 [View Portfolio](https://your-username.github.io/)
+👉 [View Portfolio](https://salma-soussi.github.io/portfolio/)
 
 ## 🧰 Installation & Setup
 If you'd like to run the project locally:
