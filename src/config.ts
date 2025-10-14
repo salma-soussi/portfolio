@@ -17,8 +17,8 @@ export const siteConfig = {
       description:
         "An ERP enhancement integrating mobile data capture and web analytics for smarter, real-time industrial management.",
       link: "https://salma-soussi.github.io/portfolio/",
-      imageName: "https://images.unsplash.com/photo-1759800805660-8bc4595568ec?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=1170",
-      imageAlt: "",
+      imageName: "images/1.png",
+      imageAlt: "1",
       skills: [
         "React Native",
         "Angular",
@@ -32,7 +32,9 @@ export const siteConfig = {
       name: "TestBench visualization",
       description:
         "A database visualization solution designed to clarify data relationships and improve understanding through an interactive and reliable web interface.",
-      link: "",
+      link: "https://salma-soussi.github.io/portfolio/",
+      imageName: "images/2.png",
+      imageAlt: "2",
       skills: [
         "ReactJS",
         "Tailwind CSS",
@@ -45,7 +47,9 @@ export const siteConfig = {
       name: "Just",
       description:
         "A web-based quotation management system helping wholesalers grow their business by finding new clients and tracking sales performance.",
-      link: "",
+      link: "https://salma-soussi.github.io/portfolio/",
+      imageName: "images/3.png",
+      imageAlt: "3",
       skills: ["ReactJS", "Material-UI ", "Node.js", "MongoDB"],
     },
   ],
