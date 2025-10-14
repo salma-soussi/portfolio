@@ -8,4 +8,5 @@ export default defineConfig({
     plugins: [tailwindcss()],
   },
   site: 'https://salma-soussi.github.io/portfolio',
+  base: '/portfolio/',
 });
