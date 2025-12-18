@@ -7,6 +7,7 @@ export const siteConfig = {
     email: "soussiselma@hotmail.com",
     linkedin: "https://www.linkedin.com/in/salma-soussi-dev20/",
     github: "https://github.com/salma-soussi",
+    twitter: "",
   },
   aboutMe:
     "A recent graduate with a master's degree in Computer Engineering with more than 3 years of freelance and internship experience in web development and mobile development. Possesses hands-on experience building websites, mobile features, and API integrations using various technologies, with a solid understanding of cybersecurity and cloud computing gained through academic projects.",
