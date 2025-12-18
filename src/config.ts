@@ -1,6 +1,6 @@
 export const siteConfig = {
   name: "Salma Soussi",
-  title: "A Software Engineer 😁",
+  title: "A Full Stack Developer 😁",
   description: "Portfolio website of Salma Soussi ",
   accentColor: "#e43434",
   social: {
@@ -9,8 +9,19 @@ export const siteConfig = {
     github: "https://github.com/salma-soussi",
   },
   aboutMe:
-    "I'm a full-stack engineer with a strong foundation in software design and system architecture. Passionate about creating efficient, maintainable, and scalable digital products while exploring new possibilities in AI, automation, and cloud technologies.",
-  skills: ["Javascript", "React", "Node.js", "Python", "AI", "AWS", "Docker"],
+    "A recent graduate with a master's degree in Computer Engineering with more than 3 years of freelance and internship experience in web development and mobile development. Possesses hands-on experience building websites, mobile features, and API integrations using various technologies, with a solid understanding of cybersecurity and cloud computing gained through academic projects.",
+  skills: [
+    "Javascript",
+    "Java",
+    "Python",
+    "React",
+    "Angular",
+    "Node.js",
+    "Spring Boot",
+    "AI",
+    "Azure",
+    "Docker",
+  ],
   projects: [
     {
       name: "GPRO ERP",
@@ -59,9 +70,9 @@ export const siteConfig = {
       title: "Full Stack Developer",
       dateRange: "2020 - 2023",
       bullets: [
-        "Led development of microservices architecture serving 1M+ users",
-        "Reduced API response times by 40% through optimization",
-        "Mentored team of 5 junior developers",
+        "Completed 10+ freelance web projects for diverse clients including small businesses (solar energy, accounting) and students, managing full development lifecycle from requirements gathering to deployment",
+        "Designed responsive, client-focused interfaces using WordPress for content-based sites and MERN stack for custom applications requiring database integration",
+        "Independently managed project timelines, client communication, and technical implementation, adapting solutions to meet varying budget constraints and requirements.",
       ],
     },
     {
@@ -69,29 +80,32 @@ export const siteConfig = {
       title: "Full Stack Developer Intern",
       dateRange: "2023",
       bullets: [
-        // "Built and launched MVP product from scratch using React and Node.js",
-        // "Implemented CI/CD pipeline reducing deployment time by 60%",
-        // "Collaborated with product team to define technical requirements",
+        "Designed and developed an ERP-integrated mobile application (React Native) to automate factory data collection through QR code, barcode, and NFC tag scanning, reducing manual data entry time from 1-2 minutes to seconds per entry.",
+        "Built a web dashboard (Angular) to visualize production statistics from the ERP system, creating an accessible interface for management to track key metrics.",
+        "Integrated existing API infrastructure (Spring, PostgreSQL) with new mobile and web modules, designing the integration strategy and developing optimized queries to support real-time data synchronization.",
+        "Delivered cost-effective solutions by leveraging device cameras for scanning instead of dedicated hardware and using React Native for cross-platform deployment across iOS and Android.",
       ],
     },
     {
       company: "IMBUS",
-      title: "Full Stack Developer Intern",
+      title: "Full Stack Web Developer Intern",
       dateRange: "2022",
       bullets: [
-        // "Developed responsive web applications for 20+ clients",
-        // "Improved site performance scores by 35% on average",
-        // "Introduced modern JavaScript frameworks to legacy codebases",
+        "Mapped dependencies and relationships across 100+ tables in an undocumented database(SQL server) where dependencies existed only in application code and team knowledge.",
+        "Built an interactive database visualization platform (React, NestJS, Prisma) with searchable entity maps and editable annotations, enabling management to document institutional knowledge for faster developer onboarding.",
+        "Ensured system reliability through Robot Framework test coverage and produced documentation to facilitate team adoption and long-term maintenance.",
+        "Presented the tool to management and refined it based on their feedback, demonstrating how it consolidates previously undocumented database knowledge into a single accessible interface for new developers.",
       ],
     },
     {
       company: "ITGATE",
-      title: "Full Stack Developer Intern",
+      title: "Full Stack Web Developer Intern",
       dateRange: "2020",
       bullets: [
-        // "Developed responsive web applications for 20+ clients",
-        // "Improved site performance scores by 35% on average",
-        // "Introduced modern JavaScript frameworks to legacy codebases",
+        "Analyzed client requirements alongside the project manager and team to define functional specifications for a B2B quotation platform where buyers submit product requests and sellers respond with detailed quotations.",
+        "Designed and implemented back-end infrastructure (MERN stack) following MVC architecture, focusing on request handling, quotation workflows, and client data management.",
+        "Developed front-end components (React) to complement back-end services, contributing to a cohesive full-stack implementation as part of the development team.",
+        "Conducted testing and debugging to identify issues early in the development cycle, supporting a stable initial product release.",
       ],
     },
   ],
@@ -99,21 +113,23 @@ export const siteConfig = {
     {
       school: "Institut Élite de Montréal",
       degree: "ACS in Artificial Intelligence Specialist",
-      dateRange: "2023 - 2024",
+      dateRange: "2024",
       achievements: [],
     },
     {
       school: "Ecole Supérieure Polytechnique Privée de Sousse",
       degree: "National Diploma in Computer Engineering",
-      dateRange: "2020-2023",
-      achievements: ["Canadian equivalence according to WES: Master's degree"],
+      dateRange: "2023",
+      achievements: [
+        "Evaluated by World Education Services as equivalent to a Canadian Master's degree in Computer Engineering",
+      ],
     },
     {
       school: "Higher Institute of Applied Sciences and Technology of Sousse",
       degree: "Bachelor’s Degree in Computer Science",
-      dateRange: "2017-2020",
+      dateRange: "2020",
       achievements: [
-        "Canadian equivalence according to WES: four years Bachelor's degree ",
+        "Evaluated by World Education Services as equivalent to a Canadian four-year Bachelor of Computer Science degree",
       ],
     },
   ],
