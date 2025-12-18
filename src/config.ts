@@ -64,6 +64,30 @@ export const siteConfig = {
       skills: ["ReactJS", "Material-UI ", "Node.js", "MongoDB"],
     },
   ],
+  education: [
+    {
+      school: "Institut Élite de Montréal",
+      degree: "ACS in Artificial Intelligence Specialist",
+      dateRange: "2024",
+      achievements: [],
+    },
+    {
+      school: "Ecole Supérieure Polytechnique Privée de Sousse",
+      degree: "National Diploma in Computer Engineering",
+      dateRange: "2023",
+      achievements: [
+        "Evaluated by World Education Services as equivalent to a Canadian Master's degree in Computer Engineering",
+      ],
+    },
+    {
+      school: "Higher Institute of Applied Sciences and Technology of Sousse",
+      degree: "Bachelor’s Degree in Computer Science",
+      dateRange: "2020",
+      achievements: [
+        "Evaluated by World Education Services as equivalent to a Canadian four-year Bachelor of Computer Science degree",
+      ],
+    },
+  ],
   experience: [
     {
       company: "Freelance",
@@ -109,30 +133,7 @@ export const siteConfig = {
       ],
     },
   ],
-  education: [
-    {
-      school: "Institut Élite de Montréal",
-      degree: "ACS in Artificial Intelligence Specialist",
-      dateRange: "2024",
-      achievements: [],
-    },
-    {
-      school: "Ecole Supérieure Polytechnique Privée de Sousse",
-      degree: "National Diploma in Computer Engineering",
-      dateRange: "2023",
-      achievements: [
-        "Evaluated by World Education Services as equivalent to a Canadian Master's degree in Computer Engineering",
-      ],
-    },
-    {
-      school: "Higher Institute of Applied Sciences and Technology of Sousse",
-      degree: "Bachelor’s Degree in Computer Science",
-      dateRange: "2020",
-      achievements: [
-        "Evaluated by World Education Services as equivalent to a Canadian four-year Bachelor of Computer Science degree",
-      ],
-    },
-  ],
+
   // certification: [
   //   {
   //     source: "Higher Institute of Applied Sciences and Technology of Sousse",
